@@ -1,0 +1,29 @@
+body {
+    background-color:white;
+    border: 7px solid lightblue;  padding: 50px 50px 50px 50px;
+    text-align: center;font-family: Arial, sans-serif;
+    
+}
+h1{
+    color:lightblue;
+    font-family: Arial, sans-serif;
+    text-decoration:underline;
+    font-size: 26;
+
+    
+}
+h2{
+    color:blueviolet;
+    font-family: Arial, sans-serif;
+    font-size: 26px;
+   
+}
+.active{
+    color:blueviolet;
+    text-decoration: underline solid; 
+
+}
+
+
+
+
